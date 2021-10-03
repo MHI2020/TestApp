@@ -1,0 +1,10 @@
+{
+   "name": "TestApp",
+   "short_name": "TA",
+   "start_url": "/?home=true",
+   "icons": [],
+   "theme_color": "#ffffff",
+   "background_color": "#30ff80",
+   "display": "fullscreen",
+   "orientation": "potrait"
+}
